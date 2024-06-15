@@ -1,8 +1,7 @@
 
 set( src_files 
- src/addressbok.pb.cc 
+ main.cc 
 )
 
-set( include_files 
-include/addressbok.pb.h 
+set( include_files  
 )
